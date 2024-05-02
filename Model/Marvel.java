@@ -60,11 +60,11 @@ public class Marvel implements Serializable {
     @Override
     public String toString() {
         return "Marvel{" +
-                "nombre='" + nombre + '\'' +
-                ", sexo='" + sexo + '\'' +
-                ", Origen='" + Origen + '\'' +
-                ", poder='" + poder + '\'' +
-                ", equipamiento='" + equipamiento + '\'' +
+                "nombre='" + nombre + '\n' +
+                ", sexo='" + sexo + '\n' +
+                ", Origen='" + Origen + '\n' +
+                ", poder='" + poder + '\n' +
+                ", equipamiento='" + equipamiento + '\n' +
                 '}';
     }
 

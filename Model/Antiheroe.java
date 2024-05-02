@@ -20,9 +20,10 @@ public class Antiheroe extends Marvel {
 
     @Override
     public String toString() {
-        return "Antiheroe{" + super.toString() +
+        return "------------------------\n"+
+                "Antiheroe{"+super.toString() +
                 "bueno=" + bueno +'\'' +
-                '}';
+                "} \n ";
     }
 }
 
